@@ -1,2 +1,1 @@
-# Rhombus Patte
-program to create Rhombus Pattern.
+# Rhombus Pattern Program in Java
