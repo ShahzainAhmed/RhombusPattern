@@ -1,2 +1,2 @@
-# Rhombus Pat
+# Rhombus Patte
 program to create Rhombus Pattern.
